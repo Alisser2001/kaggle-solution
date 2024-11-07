@@ -8,4 +8,4 @@ CC: 1000567015
 
 Curso: Introducción a la Inteligencia Artificial
 
-Enlace al video de la segunda entrega: https://youtu.be/7rueylxRz8Q
+Enlace al video de la segunda entrega: https://youtu.be/VH6rmgLczTY
